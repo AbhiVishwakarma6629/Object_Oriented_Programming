@@ -39,3 +39,7 @@ class Parametrized:
 
 p = Parametrized('Test', 21)
 print(p.__dict__)
+
+
+
+# PW!wz9av9#mNBm6 
